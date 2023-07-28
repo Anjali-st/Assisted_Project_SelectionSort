@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\bin\Debug\ConApp_SelectionSort.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\bin\Debug\ConApp_SelectionSort.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\bin\Debug\ConApp_SelectionSort.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\obj\Debug\ConApp_SelectionSort.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\obj\Debug\ConApp_SelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\obj\Debug\ConApp_SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\obj\Debug\ConApp_SelectionSort.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_SelectionSort\obj\Debug\ConApp_SelectionSort.pdb
